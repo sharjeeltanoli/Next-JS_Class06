@@ -3,7 +3,7 @@ const Hero = () => {
     return (
       <div className="bg-white h-52">
         <br/>
-      <div className="grid grid-cols-2 w-1/2 justify-items-center border-2 rounded-md py-2  mx-auto">
+      <div className="grid grid-cols-2 w-2/3 justify-items-center border-2 rounded-md py-2  mx-auto">
         <div className="col-span-2 h-8">
           <h1 className="font-bold text-xl">Sell Your Car on GoodBuy Cars and Get the Best Price </h1> 
           </div>
