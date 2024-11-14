@@ -2,10 +2,9 @@
 
 const UsedC = () => {
   return (
-    <div>used car page
+    <div ClassName="h-screen">used car page
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
     </div>
   )
 }
