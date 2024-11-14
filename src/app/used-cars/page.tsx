@@ -2,7 +2,7 @@
 
 const UsedC = () => {
   return (
-    <div ClassName="h-screen">used car page
+    <div className="h-screen">used car page
 
 
     </div>
