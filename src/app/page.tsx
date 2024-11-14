@@ -8,7 +8,7 @@ import Corolla from "./images/corolla.jpg"
 
 const Home = () => {
   return (
-    <div ClassName="h-screen">
+    <div className="h-screen">
     <Hero/>
 
 <h2 className="font-semibold text-xl">Featured New Cars</h2>
