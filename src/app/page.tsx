@@ -8,7 +8,7 @@ import Corolla from "./images/corolla.jpg"
 
 const Home = () => {
   return (
-    <div>
+    <div ClassName="h-screen">
     <Hero/>
 
 <h2 className="font-semibold text-xl">Featured New Cars</h2>
@@ -51,9 +51,6 @@ PKR 4,000,000
 </Link>
 
 </div>
-
-
-<br/><br/><br/><br/><br/><br/>
 </div>
   )
 }
