@@ -1,10 +1,8 @@
 
 const moreInfo = () => {
   return (
-    <div>more data will display here
-      <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-      <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-    </div>
+    <div className="h-screen">more data will display here
+         </div>
   )
 }
 
