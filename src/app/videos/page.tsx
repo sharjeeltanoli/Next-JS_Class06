@@ -1,7 +1,7 @@
 
 const Videos = () => {
   return (
-    <div ClassName="h-screen">page for video
+    <div className="h-screen">page for video
     
     </div>
   )
