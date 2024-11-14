@@ -1,11 +1,7 @@
 
 const Bikes = () => {
     return (
-      <div>Bikes will display here
-
-
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+      <div ClassName="h-screen">Bikes will display here
 
 
 
